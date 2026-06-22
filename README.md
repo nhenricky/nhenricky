@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Natã
+# 👋 Olá, eu sou Natã Henrique
 
 Sou programador e apaixonado por tecnologia, inovação e desenvolvimento de software.
 
