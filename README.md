@@ -24,20 +24,19 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 ## 📚 Atualmente estudando
 
 - Desenvolvimento de aplicações desktop com **CustomTkinter**
-- Rux (Programming Language 2026)
 - Julia (Programming Language)
+- Docker
 
 ## 🎯 Objetivos
 
 - Criar aplicações desktop modernas e bem estruturadas  
-- Evoluir como desenvolvedor full stack  
+- Evoluir como desenvolvedor
 - Desenvolver jogos independentes como hobby  
 - Contribuir com projetos open source no futuro  
 
 ## ⚡ Um pouco mais
 
 Além de programar, gosto de explorar novas ideias, aprender como as coisas funcionam por baixo dos panos e transformar ideias em projetos reais.
-
 
 
  ### “Código é a forma mais pura de transformar lógica em criação.”
