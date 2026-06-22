@@ -24,9 +24,8 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 ## 📚 Atualmente estudando
 
 - Desenvolvimento de aplicações desktop com **CustomTkinter**
-- Estruturação de projetos em Python
-- Melhores práticas de UI/UX para aplicações simples e funcionais
-- Introdução a arquitetura de software
+- Rux (Programming Language 2026)
+- Julia (Programming Language)
 
 ## 🎯 Objetivos
 
@@ -41,4 +40,4 @@ Além de programar, gosto de explorar novas ideias, aprender como as coisas func
 
 
 
- ## <> “Código é a forma mais pura de transformar lógica em criação.”
+ ### “Código é a forma mais pura de transformar lógica em criação.”
