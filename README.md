@@ -14,11 +14,9 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 ## 🛠️ Stack atual
 
 - Python  
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
-- CustomTkinter (desenvolvimento de interfaces desktop)
+- Customtkinter
+- NiceGUI 
+- Git & GitHub 
 
 
 ## 📚 Atualmente estudando
