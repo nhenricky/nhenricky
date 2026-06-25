@@ -14,7 +14,6 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 ## 🛠️ Stack atual
 
 - Python
-- Golang  
 - Customtkinter
 - NiceGUI 
 - Git & GitHub 
