@@ -22,6 +22,9 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 ## 📚 Atualmente estudando
 
 - Docker
+- Kubernets
+- AI
+- C++ 
 
 ## 🎯 Objetivos
 
