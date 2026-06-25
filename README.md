@@ -24,7 +24,6 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Docker
 - Kubernets
 - AI
-- C++ 
 
 ## 🎯 Objetivos
 
