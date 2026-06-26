@@ -17,6 +17,7 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Customtkinter
 - NiceGUI
 - Golang
+- Julia
 - Git & GitHub 
 
 
@@ -25,7 +26,6 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Docker
 - Kubernets
 - AI
-- Julia (Programming Language)
 
 ## 🎯 Objetivos
 
