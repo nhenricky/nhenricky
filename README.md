@@ -24,6 +24,7 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Docker
 - Kubernets
 - AI
+- Golang
 
 ## 🎯 Objetivos
 
