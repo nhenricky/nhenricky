@@ -17,8 +17,6 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Customtkinter
 - NiceGUI
 - Golang
-- Julia
-- Ruby
 - Git & GitHub 
 
 
