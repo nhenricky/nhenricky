@@ -16,7 +16,6 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Python
 - Customtkinter
 - NiceGUI
-- Golang
 - Git & GitHub 
 
 
@@ -24,6 +23,7 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 
 - Docker
 - AI
+- Golang
 
 ## 🎯 Objetivos
 
