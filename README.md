@@ -24,6 +24,7 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Docker
 - AI
 - Golang
+- PHP
 
 ## 🎯 Objetivos
 
@@ -32,9 +33,4 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Desenvolver jogos independentes como hobby  
 - Contribuir com projetos open source no futuro  
 
-## ⚡ Um pouco mais
-
-Além de programar, gosto de explorar novas ideias, aprender como as coisas funcionam por baixo dos panos e transformar ideias em projetos reais.
-
-
- ### “Código é a forma mais pura de transformar lógica em criação.”
+### “Código é a forma mais pura de transformar lógica em criação.”
