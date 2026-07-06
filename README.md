@@ -18,12 +18,5 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - NiceGUI
 - Git & GitHub 
 
-
-## 🎯 Objetivos
-
-- Criar aplicações desktop modernas e bem estruturadas  
-- Evoluir como desenvolvedor
-- Desenvolver jogos independentes como hobby  
-- Contribuir com projetos open source no futuro  
-
-### “Código é a forma mais pura de transformar lógica em criação.”
+  
+### “Código é a forma mais pura de transformar lógica em criação."
