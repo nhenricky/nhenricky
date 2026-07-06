@@ -19,13 +19,6 @@ Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre busc
 - Git & GitHub 
 
 
-## 📚 Atualmente estudando
-
-- Docker
-- AI
-- Golang
-- PHP
-
 ## 🎯 Objetivos
 
 - Criar aplicações desktop modernas e bem estruturadas  
