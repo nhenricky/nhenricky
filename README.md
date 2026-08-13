@@ -2,11 +2,9 @@
 
 Sou programador e apaixonado por tecnologia, inovação e desenvolvimento de software.
 
-Tenho interesse principalmente em **desenvolvimento desktop e web**, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
-
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor focado em Python e tecnologias web  
+- 💻 Desenvolvedor focado em Python e outras tecnologias 
 - 🧠 Curioso por arquitetura de software e boas práticas de programação  
 - 🎮 De vez em quando, me divirto criando jogos 2D com Pygame  
 - 📚 Sempre estudando e melhorando minhas habilidades  
