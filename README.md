@@ -13,7 +13,6 @@ Sou programador e apaixonado por tecnologia, inovação e desenvolvimento de sof
 
 - Python
 - Pygame
-- NiceGUI
 - Git & GitHub 
 
   
