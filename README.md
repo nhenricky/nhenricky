@@ -4,15 +4,13 @@ Sou programador e apaixonado por tecnologia, inovação e desenvolvimento de sof
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor focado em Python e outras tecnologias 
+- 💻 Desenvolvedor apaixonado por novas tecnologias
 - 🧠 Curioso por arquitetura de software e boas práticas de programação  
-- 🎮 De vez em quando, me divirto criando jogos 2D com Pygame  
 - 📚 Sempre estudando e melhorando minhas habilidades  
 
 ## 🛠️ Stack atual
 
-- Python
-- CustomTkinter
+- Golang
 - Git & GitHub 
 
   
