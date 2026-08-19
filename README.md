@@ -4,13 +4,14 @@ Sou programador e apaixonado por tecnologia, inovação e desenvolvimento de sof
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor apaixonado por novas tecnologias
-- 🧠 Curioso por arquitetura de software e boas práticas de programação  
+- 💻 Desenvolvedor apaixonado por novas tecnologias e game development
+- 🧠 Curioso por arquitetura de software e boas práticas de programação
 - 📚 Sempre estudando e melhorando minhas habilidades  
 
 ## 🛠️ Stack atual
 
-- Golang
+- Python
+- Raylib
 - Git & GitHub 
 
   
