@@ -11,7 +11,6 @@ Sou programador e apaixonado por tecnologia, inovação e desenvolvimento de sof
 ## 🛠️ Stack atual
 
 - Python
-- Raylib
 - Git & GitHub 
 
   
