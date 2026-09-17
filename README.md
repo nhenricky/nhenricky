@@ -2,8 +2,8 @@
 
 Sou programador e apaixonado por tecnologia, inovação e desenvolvimento de software.
 
-- 💻 Desenvolvedor apaixonado por novas tecnologias e game development
-- 🧠 Curioso por arquitetura de software e boas práticas de programação
-- 📚 Sempre estudando e melhorando minhas habilidades  
+- 💻 Desenvolvedor apaixonado por novas tecnologias e game development;
+- 🧠 Curioso por arquitetura de software e boas práticas de programação;
+- 📚 Sempre estudando e melhorando minhas habilidades.
 
 ### “Código é a forma mais pura de transformar lógica em criação."
